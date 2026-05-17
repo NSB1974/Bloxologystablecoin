@@ -1,4 +1,4 @@
-# Bloxologystablecoin
+# Bloxology Stablecoin
 
 Bloxology stablecoin contract.
 
